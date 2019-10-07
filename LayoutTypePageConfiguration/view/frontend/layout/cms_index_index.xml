@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+
+<page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:View/Layout/etc/page_configuration.xsd">
+    <html>
+        <attribute name="asd" value="sdf">asds</attribute>
+    </html>
+
+    <head>
+        <title>asd</title>
+        <meta content="asds" name="asdsad" charset="asd"/>
+        <link src="sadfds" charset="asd"/>
+        <css src="sad"/>
+        <script src="asds"/>
+    </head>
+
+    <body>
+        <attribute name="asd"/>
+
+        <block name="asd"/>
+        <container name="asd"/>
+        <move element="a" destination="b"/>
+        <referenceBlock name="a"/>
+        <referenceContainer name="b"/>
+
+        <block name="action">
+            <action method="setMethod">
+                <argument name="argume" xsi:type="string">asd</argument>
+            </action>
+        </block>
+    </body>
+
+    <update handle="demo"/>
+</page>

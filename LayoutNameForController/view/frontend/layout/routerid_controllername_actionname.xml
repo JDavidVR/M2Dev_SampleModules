@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+
+<page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:View/Layout/etc/page_configuration.xsd">
+    <body>
+        <!-- This is a basic example to set page title -->
+        <referenceBlock name="page.main.title">
+            <action method="setPageTitle">
+                <argument translate="true" name="label" xsi:type="string">Layout: routerid_controllername_actionname.xml</argument>
+            </action>
+        </referenceBlock>
+
+    </body>
+</page>
